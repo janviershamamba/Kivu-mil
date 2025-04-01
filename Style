@@ -1,0 +1,61 @@
+corps {
+    famille de polices : Arial, sans-serif ;
+    marge : 0 ;
+    remplissage : 0 ;
+    couleur d'arrière-plan : #f4f4f4 ;
+}
+
+en-tête {
+    couleur d'arrière-plan : #333 ;
+    couleur : #fff;
+    remplissage : 1rem ;
+    alignement du texte : centre ;
+}
+
+navigation ul {
+    type-de-style-de-liste : aucun ;
+    remplissage : 0 ;
+}
+
+nav ul li {
+    affichage : en ligne ;
+    marge : 0 1rem ;
+}
+
+nav ul li a {
+    couleur : #fff;
+    décoration de texte : aucune ;
+}
+
+principal {
+    rembourrage : 2rem ;
+}
+
+.héros {
+    couleur d'arrière-plan : #e3e3e3 ;
+    rembourrage : 2rem ;
+    alignement du texte : centre ;
+}
+
+.produits, .à propos, .contact {
+    marge supérieure : 2 rem ;
+}
+
+pied de page {
+    couleur d'arrière-plan : #333 ;
+    couleur : #fff;
+    alignement du texte : centre ;
+    remplissage : 1rem ;
+}
+
+h1, h2 {
+    couleur : #333;
+}
+
+un {
+    couleur : #0066cc ;
+}
+
+a:hover {
+    décoration de texte : soulignement ;
+}
